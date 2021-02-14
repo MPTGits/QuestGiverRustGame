@@ -1,0 +1,11 @@
+/home/martogod/RustProgramms/QuestGiverRustGame/target/debug/deps/error_chain-34a32c650fa76f94.rmeta: /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/lib.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/impl_error_chain_kind.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/error_chain.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/quick_main.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/backtrace.rs
+
+/home/martogod/RustProgramms/QuestGiverRustGame/target/debug/deps/liberror_chain-34a32c650fa76f94.rlib: /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/lib.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/impl_error_chain_kind.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/error_chain.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/quick_main.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/backtrace.rs
+
+/home/martogod/RustProgramms/QuestGiverRustGame/target/debug/deps/error_chain-34a32c650fa76f94.d: /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/lib.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/impl_error_chain_kind.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/error_chain.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/quick_main.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/backtrace.rs
+
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/lib.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/impl_error_chain_kind.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/error_chain.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/quick_main.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/backtrace.rs:

@@ -1,0 +1,12 @@
+/home/martogod/RustProgramms/QuestGiverRustGame/target/debug/deps/rand_core-918adebad352d1cc.rmeta: /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/lib.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/block.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/error.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/impls.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/le.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/os.rs
+
+/home/martogod/RustProgramms/QuestGiverRustGame/target/debug/deps/librand_core-918adebad352d1cc.rlib: /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/lib.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/block.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/error.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/impls.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/le.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/os.rs
+
+/home/martogod/RustProgramms/QuestGiverRustGame/target/debug/deps/rand_core-918adebad352d1cc.d: /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/lib.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/block.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/error.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/impls.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/le.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/os.rs
+
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/lib.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/block.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/error.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/impls.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/le.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/os.rs:

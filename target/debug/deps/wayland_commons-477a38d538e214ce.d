@@ -1,0 +1,11 @@
+/home/martogod/RustProgramms/QuestGiverRustGame/target/debug/deps/wayland_commons-477a38d538e214ce.rmeta: /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.21.13/src/lib.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.21.13/src/map.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.21.13/src/socket.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.21.13/src/utils.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.21.13/src/wire.rs
+
+/home/martogod/RustProgramms/QuestGiverRustGame/target/debug/deps/libwayland_commons-477a38d538e214ce.rlib: /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.21.13/src/lib.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.21.13/src/map.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.21.13/src/socket.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.21.13/src/utils.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.21.13/src/wire.rs
+
+/home/martogod/RustProgramms/QuestGiverRustGame/target/debug/deps/wayland_commons-477a38d538e214ce.d: /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.21.13/src/lib.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.21.13/src/map.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.21.13/src/socket.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.21.13/src/utils.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.21.13/src/wire.rs
+
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.21.13/src/lib.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.21.13/src/map.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.21.13/src/socket.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.21.13/src/utils.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.21.13/src/wire.rs:
