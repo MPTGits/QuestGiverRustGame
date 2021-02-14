@@ -1,0 +1,11 @@
+/home/martogod/RustProgramms/QuestGiverRustGame/target/debug/deps/cargo_metadata-18ce7c54fe600211.rmeta: /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/lib.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/dependency.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/diagnostic.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/errors.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/messages.rs
+
+/home/martogod/RustProgramms/QuestGiverRustGame/target/debug/deps/libcargo_metadata-18ce7c54fe600211.rlib: /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/lib.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/dependency.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/diagnostic.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/errors.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/messages.rs
+
+/home/martogod/RustProgramms/QuestGiverRustGame/target/debug/deps/cargo_metadata-18ce7c54fe600211.d: /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/lib.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/dependency.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/diagnostic.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/errors.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/messages.rs
+
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/lib.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/dependency.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/diagnostic.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/errors.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/messages.rs:

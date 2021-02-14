@@ -1,0 +1,12 @@
+/home/martogod/RustProgramms/QuestGiverRustGame/target/debug/deps/gif-bd4896606861b953.rmeta: /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/lib.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/traits.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/common.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/mod.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/decoder.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/encoder.rs
+
+/home/martogod/RustProgramms/QuestGiverRustGame/target/debug/deps/libgif-bd4896606861b953.rlib: /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/lib.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/traits.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/common.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/mod.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/decoder.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/encoder.rs
+
+/home/martogod/RustProgramms/QuestGiverRustGame/target/debug/deps/gif-bd4896606861b953.d: /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/lib.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/traits.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/common.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/mod.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/decoder.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/encoder.rs
+
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/lib.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/traits.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/common.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/mod.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/decoder.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/encoder.rs:

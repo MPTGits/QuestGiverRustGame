@@ -1,0 +1,11 @@
+/home/martogod/RustProgramms/QuestGiverRustGame/target/debug/deps/wayland_sys-44c2389489e98204.rmeta: /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.21.13/src/lib.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.21.13/src/common.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.21.13/src/client.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.21.13/src/egl.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.21.13/src/cursor.rs
+
+/home/martogod/RustProgramms/QuestGiverRustGame/target/debug/deps/libwayland_sys-44c2389489e98204.rlib: /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.21.13/src/lib.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.21.13/src/common.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.21.13/src/client.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.21.13/src/egl.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.21.13/src/cursor.rs
+
+/home/martogod/RustProgramms/QuestGiverRustGame/target/debug/deps/wayland_sys-44c2389489e98204.d: /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.21.13/src/lib.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.21.13/src/common.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.21.13/src/client.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.21.13/src/egl.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.21.13/src/cursor.rs
+
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.21.13/src/lib.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.21.13/src/common.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.21.13/src/client.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.21.13/src/egl.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.21.13/src/cursor.rs:

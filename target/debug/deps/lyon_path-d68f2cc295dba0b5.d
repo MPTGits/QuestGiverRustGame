@@ -1,0 +1,12 @@
+/home/martogod/RustProgramms/QuestGiverRustGame/target/debug/deps/lyon_path-d68f2cc295dba0b5.rmeta: /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/lib.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/events.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/path_state.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/path.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/iterator.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/builder.rs
+
+/home/martogod/RustProgramms/QuestGiverRustGame/target/debug/deps/liblyon_path-d68f2cc295dba0b5.rlib: /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/lib.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/events.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/path_state.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/path.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/iterator.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/builder.rs
+
+/home/martogod/RustProgramms/QuestGiverRustGame/target/debug/deps/lyon_path-d68f2cc295dba0b5.d: /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/lib.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/events.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/path_state.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/path.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/iterator.rs /home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/builder.rs
+
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/lib.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/events.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/path_state.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/path.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/iterator.rs:
+/home/martogod/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/builder.rs:
